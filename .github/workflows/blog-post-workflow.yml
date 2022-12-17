@@ -11,7 +11,7 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-     - uses: Rone10/.github/workflows/blog-post-workflow@main
+     - uses: Rone10/workflows/blog-post-workflow@main
        with:
          # Replace this URL with your rss feed URL/s
          feed_list: "https://harunacodes.com/rss.xml"
