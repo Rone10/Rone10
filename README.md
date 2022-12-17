@@ -6,6 +6,9 @@
 
 ## 📩 I also write about Python and Django.
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Super&lpar;&rpar; In Python](https://harunacodes.com/how-to-use-super-in-python)
+- [Mutable Default Parameters - Python](https://harunacodes.com/mutable-default-parameters-python)
+- [Django Forms and ModelForms](https://harunacodes.com/django-forms-and-modelforms)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
