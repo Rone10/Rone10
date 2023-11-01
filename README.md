@@ -6,6 +6,7 @@
 
 ## 📩 I also write about Python and Django.
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Django Filters: A Simple Overview](https://harunacodes.com/getting-started-with-django-filters-a-simple-overview)
 - [Django Form Validation](https://harunacodes.com/django-form-validation)
 - [How To Use Super&lpar;&rpar; In Python](https://harunacodes.com/how-to-use-super-in-python)
 - [Mutable Default Parameters - Python](https://harunacodes.com/mutable-default-parameters-python)
